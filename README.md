@@ -4,7 +4,7 @@
 ## Aditi Rathore
 ## 25070123006
 ## EnTC A-1
-
+# 
 # Aim
 ## To study and perform data binning and data formatting techniques using various Python functions and operations.
 
