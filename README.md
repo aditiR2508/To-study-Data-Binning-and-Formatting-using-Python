@@ -21,7 +21,7 @@
 #### 30    	 Adult
 #### 60	     Senior
 
-### 2. Data Formatting ---> refers to converting data into a proper format or structure so that it can be easily processed and analyzed.
+### 2. Data Formatting ---> refers to the process of converting data into a proper format or structure so that it can be easily processed and analyzed.
 ### Examples:
 #### •	Converting string to numeric values
 #### •	Converting date formats
