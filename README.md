@@ -63,11 +63,10 @@
 ### Function ---> pd.to_datetime() ---> Used to convert values into date format.
 
 ## 5. Change Text Case
-### Functions:
+### Used to standardize text formatting. Functions:
 #### •	str.lower()
 #### •	str.upper()
 #### •	str.title()
-### Used to standardize text formatting.
 
 ## 6. Remove Extra Spaces
 ### Function ---> str.strip() ---> Removes leading and trailing spaces.
